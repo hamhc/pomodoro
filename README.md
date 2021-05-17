@@ -1,4 +1,4 @@
-# pomodoro
+# Pomodoro
 
 Simulación de método Pomodoro con envío de notificaciones.  
 
