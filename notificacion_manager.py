@@ -5,7 +5,7 @@ import os
 class Notification:
 	"""Clase que contiene los metodos para envio de mensajes en telegram"""
 	def __init__(self):
-		self.token = 'TELEGRAM_ID'
+		self.token = 'TELEGRAM_ID' #Corresponde al token generado por el BotFather
 		self.chat_id = 229945624
 		
 	def _sendMessage(self):
